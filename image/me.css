@@ -1,0 +1,21 @@
+
+.list{
+    width: 100%;
+    color: aquamarine;
+}
+li{
+    display: inline;
+    font-size:x-large;
+    padding-left: 70px;
+    padding-right: 10px;
+}
+
+table{
+    background-color: green;
+    height: 200px;
+    width: 100%;
+    
+}
+.list:hover{
+    color: red;
+}
